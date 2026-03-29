@@ -8,10 +8,10 @@
 
 ![Bowling Analyzer Demo](biomechanics_graphs.png)
 
-## 🎥 Demo Video
+
 
 ## 🎥 Demo Video
-[![Watch Demo]](https://drive.google.com/file/d/1FgkleuZ9AzwVmzmXVdarXZXqdmTd2dgt/view?usp=sharing)
+[Watch Demo]](https://drive.google.com/file/d/1FgkleuZ9AzwVmzmXVdarXZXqdmTd2dgt/view?usp=sharing)
 
 ---
 
