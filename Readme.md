@@ -4,15 +4,14 @@
 
 ---
 
-## 📸 Demo graph
+## 📸 output graph
 
-![Bowling Analyzer Demo](biomechanics_graphs.png)
+[Bowling Analyzer Demo](https://drive.google.com/file/d/1xTSisJULVjch3d0nhmpCu4H1F7MqsbEG/view?usp=sharing.png)
 
 
 
-## 🎥 Demo Video
-[Watch Demo]](https://drive.google.com/file/d/1FgkleuZ9AzwVmzmXVdarXZXqdmTd2dgt/view?usp=sharing)
-
+## 🎥 output Video
+▶️ [Watch Video](https://drive.google.com/file/d/1FgkleuZ9AzwVmzmXVdarXZXqdmTd2dgt/view?usp=sharing)
 ---
 
 ## 🚀 Features
